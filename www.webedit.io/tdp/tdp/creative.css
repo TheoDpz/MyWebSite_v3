@@ -177,7 +177,7 @@ header.masthead {
   -o-background-size: cover;
   background-size: cover;*/
   color: #FFFFFF !important;
-  background-color:#f57105;
+  background-color:#7abbde;
 }
 
 header.masthead hr {
@@ -223,7 +223,7 @@ header.masthead p {
 
 #services{
   /* background: linear-gradient(-90deg,#32e8b5,#43ddd5) !important; */
-  background-color: #f57105;
+  background-color: #7abbde;
   color : #fff;
 }
 
@@ -381,7 +381,7 @@ header.masthead p {
 
 .badge{
   color: white;
-  background-color: #f57105;
+  background-color: #7abbde;
   font-size: 0.8em;
   font-weight: 100;
 }
